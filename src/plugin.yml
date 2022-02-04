@@ -1,0 +1,4 @@
+name: ExampleEnchant
+main: com.keep.ExampleEnchant.ExampleEnchant
+version: 1.0-DEV
+author: KeepTakinLs
